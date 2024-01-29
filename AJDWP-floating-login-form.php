@@ -6,7 +6,7 @@ if ( ! defined( 'ABSPATH' ) ) exit;
  * Plugin Name:       AJDWP-floating-login-form
  * Plugin URI:        https://github.com/arash12javadi/
  * Description:       Simple light weight plugin for quick login. Use this shortcode [pl_quick_login_right_bottom]. Works when you are not logged in :) This plugin use AJAX method and is very secure.
- * Version:           1
+ * Version:           240129
  * Requires at least: 5.2
  * Requires PHP:      7.2
  * Author:            Arash Javadi
